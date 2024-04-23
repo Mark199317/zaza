@@ -13,3 +13,8 @@
     X-XSS-Protection = "1; mode=block"
 
 
+[[redirects]]
+  from = "http://metodika21cm.netlify.app/:splat"
+  to = "https://metodika21cm.netlify.app/:splat"
+  status = 301
+  force = true

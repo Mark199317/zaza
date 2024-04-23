@@ -1,4 +1,4 @@
-baseURL = '//localhost:1313/'
+baseURL = 'https://metodika21cm.netlify.app'
 languageCode = 'ru-ru'
 title = 'Методика 21 см'
 theme = 'pehtheme'
