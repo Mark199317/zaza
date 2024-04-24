@@ -17,7 +17,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 	name = 'Marcus'
 	bio = 'Создатель и разработчик данной методики. Telegram для связи ⬇'
 	avatar = '/images/ava.png'
-  telegram = 'https://t.me/insertapps'
+  telegram = 'https://t.me/metodika21'
   
 
 [menu] # Menu management
