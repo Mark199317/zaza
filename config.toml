@@ -1,7 +1,9 @@
 baseURL = 'https://metodika21cm.netlify.app'
-languageCode = 'ru-ru'
+languageCode = 'en'
+enableInlineShortcodes = true
 title = 'Методика 21 см'
 theme = 'pehtheme'
+ignoreErrors = ["error-remote-getjson"]
 
 paginate = '9' # <- Set the desired number of posts per page 
 summaryLength = '20' # <- 20 words are approximately 160 characters

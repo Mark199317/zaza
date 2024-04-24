@@ -2134,3 +2134,18 @@ video {
     line-height: 1;
   }
 }
+
+.custom-link {
+  background-color: orange;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Анимация изменения цвета при наведении */
+  text-decoration: none;
+  font-size: 35px;
+}
+
+.custom-link:hover {
+  background-color: #ff8c00; /* Оранжевый цвет при наведении */
+}
