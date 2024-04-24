@@ -1,6 +1,6 @@
 ---
 title: "Информация"
-date: 2023-10-04T22:11:36+07:00
+date: 2018-07-27T13:03:07+08:00
 slug: /abouts/
 image: images/info.png
 tags:
