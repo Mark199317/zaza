@@ -1,5 +1,5 @@
 baseURL = 'https://metodika21cm.netlify.app'
-languageCode = 'en'
+languageCode = 'ru'
 enableInlineShortcodes = true
 title = 'Методика 21 см'
 theme = 'pehtheme'
