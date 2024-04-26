@@ -2139,7 +2139,7 @@ video {
   background-color: orange;
   color: white;
   border-radius: 5px;
-  padding: 10px 20px;
+  padding: 3px 20px;
   cursor: pointer;
   transition: background-color 0.3s ease; /* Анимация изменения цвета при наведении */
   text-decoration: none;
