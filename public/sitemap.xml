@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2018-10-04T22:11:36+07:00</lastmod>
+    <lastmod>2018-10-04T22:11:36+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/kyps/</loc>
+    <lastmod>2018-10-04T22:11:36+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2018-10-04T22:11:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2018-10-04T22:11:36+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BC%D0%B5/</loc>
-    <lastmod>2018-10-04T22:11:36+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/abouts/</loc>
-    <lastmod>2018-10-04T22:11:36+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2018-10-04T22:11:36+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2023/fakt/</loc>
@@ -38,11 +38,11 @@
     <loc>http://localhost:1313/posts/2023/riski/</loc>
     <lastmod>2018-09-23T22:45:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kyps/</loc>
-    <lastmod>2018-08-12T14:15:05+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2023/met/</loc>
     <lastmod>2018-07-27T13:03:07+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/abouts/</loc>
+    <lastmod>2018-07-27T13:03:07+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
