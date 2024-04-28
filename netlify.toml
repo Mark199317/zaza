@@ -14,7 +14,7 @@
 
 
 [[redirects]]
-  from = "http://metodika21cm.netlify.app/:splat"
-  to = "https://metodika21cm.netlify.app/:splat"
+  from = "http://metodika21cm.space/:splat"
+  to = "https://metodika21cm.space/:splat"
   status = 301
   force = true
