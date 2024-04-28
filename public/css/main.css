@@ -2143,7 +2143,7 @@ video {
   cursor: pointer;
   transition: background-color 0.3s ease; /* Анимация изменения цвета при наведении */
   text-decoration: none;
-  font-size: 35px;
+  font-size: 25px;
 }
 
 .custom-link:hover {
