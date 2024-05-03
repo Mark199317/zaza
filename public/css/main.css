@@ -2149,3 +2149,18 @@ video {
 .custom-link:hover {
   background-color: #ff8c00; /* Оранжевый цвет при наведении */
 }
+
+.custom-link1 {
+  background-color: orange;
+  color: white;
+  border-radius: 5px;
+  padding: 3px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Анимация изменения цвета при наведении */
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.custom-link1:hover {
+  background-color: #ff8c00; /* Оранжевый цвет при наведении */
+}
